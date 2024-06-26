@@ -4,7 +4,19 @@ Install Composer on your computer from the composer website https://getcomposer.
 Download the application form the git link https://github.com/Oliver38/demo-app.git
 
 
-Download Xampp Server
+Download Xampp Server from this link 
+
+Place the application folder into this location C:\Xampp\htdocs
+Open command line and type "cd C:\Xampp\htdocs\demo-app"
+
+run on the browser this link http:\\localhost\demo-app
+
+the aplication should run
+
+Login on the webside using these credentials 
+
+Username : admin@admin.com
+Password : Test123!
 
 
 
