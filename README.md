@@ -1,6 +1,8 @@
 
-Install Node JS from the official
-Composer on your computer from https://getcomposer.org/installer
+Install Node JS from the official nodejs website https://nodejs.org/en/download/package-manager
+Install Composer on your computer from the composer website https://getcomposer.org/installer
+Download the application form the git link https://github.com/Oliver38/demo-app.git
+
 
 Download Xampp Server
 
