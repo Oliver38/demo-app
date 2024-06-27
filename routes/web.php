@@ -1,11 +1,12 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Models\Services;
 
 Route::get('/', function () {
 
     $services = Services::All();
-    return view('website.main' compact('services'));
+    return view('website.main' ,compact('services'));
 });
 
 Route::get('/welcome', function () {
